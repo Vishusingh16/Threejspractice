@@ -1,4 +1,4 @@
-# Learn with monk jha
+# Learn with monk Jha
 
 ## Setup
 
